@@ -4,7 +4,7 @@
 key | value
 ------------- | -------------
 Name | <ruby><rb>小池 陸<rb><rt>こいけ りく</rt></ruby>
-Address | 東京都新宿区西新宿6-25-16ライオンズマンション西新宿第七 608
+Address | SECRET
 Permanet Residence | 杉並区天沼2-38-12
 Phone | 080 4134 9835
 Mail | mail@ssig33.com
@@ -44,7 +44,7 @@ Educational | 私立開成高等学校 - 卒業
 - アプリケーションのサーバーサイドおよび JavaScript を用いた一部 UI の開発を一貫して担当し、設計、実装、テスティング、リリース後の運用までを担いました。
 - [FriendFeed 型のデータ構造](http://www.hyuki.com/yukiwiki/wiki.cgi?HowFriendFeedUsesMySqlToStoreSchemaLessData)を採用し、リリース後の素早い機能追加を実現しました。
 
-### Apr. 2013 - now
+### Apr. 2012 - now
 - __ハートレイルズ株式会社__
 - Position: プログラマー
 - 開発運用テスト自動化などに総合的に従事
