@@ -5,7 +5,7 @@ key | value
 ------------- | -------------
 Name | <ruby><rb>小池 陸<rb><rt>こいけ りく</rt></ruby>
 Address | SECRET
-Permanet Residence | 杉並区天沼2-38-12
+Permanent Residence | 杉並区天沼2-38-12
 Phone | 090 1450 2501
 Mail | mail@ssig33.com
 Web Site | [ssig33.com](http://ssig33.com)
