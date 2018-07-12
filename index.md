@@ -4,8 +4,6 @@
 key | value
 ------------- | -------------
 Name | <ruby><rb>小池 陸<rb><rt>こいけ りく</rt></ruby>
-Address | SECRET
-Permanent Residence | 杉並区天沼2-38-12
 Phone | 090 1450 2501
 Mail | mail@ssig33.com
 Web Site | [ssig33.com](http://ssig33.com)
@@ -24,6 +22,7 @@ Educational | 私立開成高等学校 - 卒業
   - prototype.js 時代から React + Redux まで経験あり
 - CI
   - ビルドプロセスの構築、効率化など
+  - TravisCI 職人
 - PaaS を活用したインフラ構築
 - MySQL
 - スクラムマスター
